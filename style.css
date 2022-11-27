@@ -18,21 +18,23 @@ body {
     text-align: center;
 
 }
-
+.logo{
+    padding: 50px;
+}
 .logo img {
-    width: 418px;
+    width: 350px;
     height: auto;
     margin: 0 auto;
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 55px;
     font-weight: 300;
     margin: 0;
 }
 
 h4 {
-    font-size: 26px;
+    font-size: 22px;
     font-weight: 300;
     margin: 0;
 }
@@ -49,18 +51,18 @@ h4 {
 }
 
 .redes img {
-    width: 64px;
+    width: 60px;
     height: auto;
 }
 
 .redes p {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 300;
     margin-left: 30px;
 }
 
 footer {
-    font-size: 23px;
+    font-size: 20px;
     font-weight: 400;
 }
 
