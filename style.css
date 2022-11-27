@@ -1,4 +1,4 @@
-* {
+*, body {
     padding: 0;
     list-style: none;
     text-decoration: none;
@@ -7,8 +7,8 @@
     color: #fff;
 }
 
-body {
-    background-image: url(/img/fondo.jpg);
+.contenedor {
+    background-image: url(./img/fondo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
