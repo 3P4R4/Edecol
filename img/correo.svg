@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="correo" transform="translate(-699 -620)">
+    <g id="Elipse_22" data-name="Elipse 22" transform="translate(699 620)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="30.5" fill="none"/>
+    </g>
+    <path id="Unión_1" data-name="Unión 1" d="M0,22.054V0H34.162V22.054ZM17.2,11.8,34.162,0H0Z" transform="translate(713.919 640.973)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="dirección" transform="translate(-699 -714)">
+    <g id="Elipse_23" data-name="Elipse 23" transform="translate(699 714)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="30.5" fill="none"/>
+    </g>
+    <g id="Grupo_27" data-name="Grupo 27">
+      <g id="Grupo_26" data-name="Grupo 26" transform="translate(719.313 726.538)">
+        <path id="Trazado_104" data-name="Trazado 104" d="M692.174,820.121s-13.261-17.3-11.532-27.676,11.532-9.946,11.532-9.946" transform="translate(-680.487 -782.497)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Trazado_105" data-name="Trazado 105" d="M680.487,820.121s13.261-17.3,11.531-27.676-11.531-9.946-11.531-9.946" transform="translate(-668.8 -782.497)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Elipse_24" data-name="Elipse 24" transform="translate(726 733)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="3.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
