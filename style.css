@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 98vh;
     font-family: 'Poppins', sans-serif;
     text-align: center;
 
@@ -22,13 +22,13 @@ body {
     padding: 50px;
 }
 .logo img {
-    width: 350px;
+    width: 300px;
     height: auto;
     margin: 0 auto;
 }
 
 h1 {
-    font-size: 55px;
+    font-size: 50px;
     font-weight: 300;
     margin: 0;
 }
@@ -124,6 +124,9 @@ footer {
         padding: 10px 10px;
         overflow: hidden;
     }
+    .logo{
+        padding: 0px;
+    }
     .logo img {
         width: 218px;
         height: auto;
@@ -134,6 +137,7 @@ footer {
         font-size: 28px;
         font-weight: 300;
         margin-top: 50px;
+
 
     }
 
@@ -146,8 +150,6 @@ footer {
     .redes {
         display: flex;
         justify-content: center;
-        margin-bottom: 90px;
-        margin-top: 80px;
         max-width: 400px;
     }
 
